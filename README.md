@@ -21,5 +21,5 @@ XCode Version 14.0.1 (14A400)
 
 
 - YouTube: https://youtu.be/8XWYiDsDJ_8.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
+- Script: [script.pdf](script.pdf).
 - Recording: [recording.mp4](recording.mp4).
